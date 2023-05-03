@@ -7,22 +7,20 @@
 
 `dvchinx`
 
-**Media:**
-
+**Direct Access:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img0.jpg)
-Direct Access
 
+**Calculator:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img1.jpg)
-Calculator
 
+**Browser:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img2.jpg)
-Browser
 
+**Notes:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img3.jpg)
-Notes
 
+**Snake:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img4.jpg)
-Snake
 
+**Copyright:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img5.jpg)
-Copyright
