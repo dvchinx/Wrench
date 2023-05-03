@@ -22,5 +22,4 @@
 **Snake:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img4.jpg)
 
-**Copyright:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img5.jpg)
