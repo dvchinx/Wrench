@@ -1,9 +1,9 @@
 # Wrench
-View of the Proyect:
+**View of the Proyect:**
 
 `https://youtu.be/fmpGL7n3R7g`
 
-Code by: 
+**Code by:**
 
 `dvchinx`
 
