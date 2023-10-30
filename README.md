@@ -1,11 +1,16 @@
-# Wrench
+<h1 align="center">WRENCH ASSISTANT</h1>
+
+<h2>RESOURCES</h2>
+
 **View of the Proyect:**
 
 `https://youtu.be/fmpGL7n3R7g`
 
-**Code by:**
+**Contact me:**
 
-`dvchinx`
+`Discord: dvchinx`
+
+<h2>MULTIMEDIA</h2>
 
 **Direct Access:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img0.jpg)
