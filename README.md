@@ -2,33 +2,25 @@
 
 <h1>CONTENT</h1>
 
-* [RESOURCES](https://github.com/dvchinx/Wrench/tree/master#resources).
+[CONTACT](https://github.com/dvchinx/Wrench/tree/master#contact) **-** [PROPERTIES](https://github.com/dvchinx/Wrench/tree/master#properties) **-** [MULTIMEDIA](https://github.com/dvchinx/Wrench/tree/master#multimedia) **-** [COPYRIGHT](https://github.com/dvchinx/Wrench/tree/master#copyright).
 
-* [PROPERTIES](https://github.com/dvchinx/Wrench/tree/master#properties).
+<h2>CONTACT</h2>
 
-* [MULTIMEDIA](https://github.com/dvchinx/Wrench/tree/master#multimedia).
-
-<h2>RESOURCES</h2>
-
-**View of the Proyect:**
-
-`https://youtu.be/fmpGL7n3R7g`
-
-**Contact me:**
-
-`Discord: dvchinx`
+**Discord:** dvchinx
 
 <h2>PROPERTIES</h2>
 
-**Code Lines:** ≈ 5.000.
+**Code Lines:** ≈ 5.000
 
-**Images:** 39.
+**Images:** 39
 
-**Size:** 
+**Size:** 1.74MB
 
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/image.png)
 
 <h2>MULTIMEDIA</h2>
+
+`View of the Proyect` [Here](https://youtu.be/fmpGL7n3R7g).
 
 **Direct Access:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img0.jpg)
@@ -44,5 +36,7 @@
 
 **Snake:**
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img4.jpg)
+
+<h2>COPYRIGHT</h2>
 
 ![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/img5.jpg)
