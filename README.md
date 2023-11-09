@@ -1,5 +1,13 @@
 <h1 align="center">WRENCH ASSISTANT</h1>
 
+<h1>CONTENT</h1>
+
+* [RESOURCES](https://github.com/dvchinx/Wrench/tree/master#resources).
+
+* [PROPERTIES](https://github.com/dvchinx/Wrench/tree/master#properties).
+
+* [MULTIMEDIA](https://github.com/dvchinx/Wrench/tree/master#multimedia).
+
 <h2>RESOURCES</h2>
 
 **View of the Proyect:**
@@ -9,6 +17,16 @@
 **Contact me:**
 
 `Discord: dvchinx`
+
+<h2>PROPERTIES</h2>
+
+**Code Lines:** ≈ 5.000.
+
+**Images:** 39.
+
+**Size:** 
+
+![ScreenShot](https://github.com/dvchinx/Wrench/blob/master/src/image.png)
 
 <h2>MULTIMEDIA</h2>
 
